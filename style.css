@@ -1,0 +1,7 @@
+:root{
+    --bg-col :darkgray
+}
+
+body{
+    background-color: var(--bg-col);
+}
